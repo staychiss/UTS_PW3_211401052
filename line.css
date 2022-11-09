@@ -1,0 +1,37 @@
+.navbar{
+    background-image: url(background.jpg);
+  }
+  .navbrand{
+    color: aliceblue;
+  }
+  .nama {
+    margin-bottom: 50px;
+  }
+  .nimi {
+    background-image: url(background2.jpg);
+        margin-top: 100px;
+        margin-bottom: 50px;
+        margin-left: 75px;
+        margin-right: 75px;
+        padding: 100px;
+        text-align: justify;
+  }
+  #form{
+    padding-top: 5rem;
+  }
+  
+  .submit {
+    color: white;
+    background-color:grey;
+    border: none;
+    outline: none;
+    border-radius: 5px;
+    padding: .5rem 2rem;
+    transition: all 300ms ease-in-out;
+  }
+  /* penggunaan text-hover */
+  .submit:hover {
+    background-color:black;
+    scale: 1.1;
+  
+  }
